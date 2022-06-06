@@ -10,21 +10,18 @@
 ## Quick Start
 
 
-<code-group>
-<code-block title="YARN" active>
+
 ```bash
 cd docs
 yarn install
 yarn dev
 ```
-</code-block>
 
-<code-block title="NPM">
+or
+
 ```bash
 cd docs
 npm install
 npm run dev
 ```
-</code-block>
-</code-group>
 
